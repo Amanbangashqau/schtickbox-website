@@ -22,9 +22,6 @@
                                             <li class="<?php if($page_title=="about"){echo "current-menu-item";}?>">
                                                 <a href="<?= $app_path ?>about.php">What is SchtickBox </a>
                                             </li>
-                                            <li class="<?php if($page_title=="faq"){echo "current-menu-item";}?>">
-                                                <a href="<?= $app_path ?>faq.php">FAQ</a>
-                                            </li>
                                             <li class="<?php if($page_title=="privacy"){echo "current-menu-item";}?>">
                                                 <a href="<?= $app_path ?>privacy-policy.php">Privacy Policy</a>
                                             </li>

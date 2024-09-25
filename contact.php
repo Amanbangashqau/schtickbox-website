@@ -30,7 +30,7 @@
                     <div class="inner flex-middle">
                         <h1 class="page-title">Contact</h1>
                         <ul id="breadcrumbs" class="breadcrumbs none-style">
-                            <li><a href="index-2.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li class="active">Contact</li>
                         </ul>    
                     </div>

@@ -32,7 +32,7 @@
                     <div class="inner flex-middle">
                         <h1 class="page-title">Privacy Policy</h1>
                         <ul id="breadcrumbs" class="breadcrumbs none-style">
-                            <li><a href="index-2.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li class="active">Privacy Policy</li>
                         </ul>    
                     </div>
